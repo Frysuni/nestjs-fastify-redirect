@@ -1,0 +1,1 @@
+Its basic Redirect decorator for nestjs, but compatable only with fastify.
