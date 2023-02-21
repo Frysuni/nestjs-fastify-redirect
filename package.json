@@ -1,5 +1,6 @@
 {
-  "name": "@nestjs/fastify-redirect",
+  "private": false,
+  "name": "nestjs-fastify-redirect",
   "version": "1.0.0",
   "description": "Decorator for handling Fastify Redirects with NestJS",
   "author": "Frys",
