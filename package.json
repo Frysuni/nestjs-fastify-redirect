@@ -1,11 +1,13 @@
 {
   "private": false,
   "name": "nestjs-fastify-redirect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decorator for handling Fastify Redirects with NestJS",
   "author": "Frys",
   "license": "MIT",
   "readmeFilename": "README.md",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "rimraf ./dist && tsc"
   },
